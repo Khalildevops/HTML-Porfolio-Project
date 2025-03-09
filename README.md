@@ -3,7 +3,6 @@
 
 <head>
   <meta charset="UTF-8">
-  <title>Khalil's Portfolio</title>
 </head>
 
 <body>
